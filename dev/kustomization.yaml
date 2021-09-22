@@ -11,4 +11,4 @@ patchesStrategicMerge:
 
 images:
 - name: pacordonnier/pacordonnierdemocicd
-  newTag: "1.2"
+  newTag: f6f60879913284d2df6792e6ef6d4481ef1c8fa3
