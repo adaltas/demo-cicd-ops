@@ -10,5 +10,5 @@ patchesStrategicMerge:
 - ./deployment-patch.yaml
 
 images:
-- name: pacordonnier/pacordonnierdemocicd
+- name: adaltas/adaltasdemocicd
   newTag: 5597da9d84baa9b723a64f15de64bb393a1cc0d3

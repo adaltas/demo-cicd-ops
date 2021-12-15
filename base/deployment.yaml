@@ -15,7 +15,7 @@ spec:
         app: demo
     spec:
       containers:
-      - image: pacordonnier/pacordonnierdemocicd:1.0
+      - image: adaltas/adaltasdemocicd:1.0
         name: demo
         imagePullPolicy: Always
         ports:
